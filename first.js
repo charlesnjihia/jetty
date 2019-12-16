@@ -8,5 +8,5 @@ array.forEach(function (item, index) {
 });
 const addit=(x,y)=>x+y;
 const x = (x, y) => x * y;
-
+let age="30";
 let school="Nyuha";
