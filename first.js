@@ -7,3 +7,5 @@ array.forEach(function (item, index) {
   console.log(item, index);
 });
 const x = (x, y) => x * y;
+
+let school="Nyuha";
