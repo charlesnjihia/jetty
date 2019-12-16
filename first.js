@@ -8,3 +8,5 @@ array.forEach(function (item, index) {
 });
 const addit=(x,y)=>x+y;
 const x = (x, y) => x * y;
+
+let school="Nyuha";
